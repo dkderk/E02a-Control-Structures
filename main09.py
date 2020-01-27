@@ -19,3 +19,5 @@ while (color != 'red'):
         print('Sorry, try again.')
 
 print('You guessed it in {} tries!'.format(count))
+#Count is a variable that increases by 1 each time the user makes a guess and goes through the while loop
+#Line 21 formats the print statement to tell the user the count value, AKA how many guesses it took them

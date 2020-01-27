@@ -10,3 +10,5 @@ if (color.lower().strip() == 'red'):
     print('Correct!')
 else:
     print('Sorry, try again.')
+#Line 9 now also removes spaces at the beggining and end of the input with .strip()
+#The only way I can think of is spelling it differently

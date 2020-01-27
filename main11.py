@@ -9,7 +9,7 @@ def choose_color(last_color):
     while c == last_color:
         c = random.choice(colors)
     return c
-
+#This is a function called choose_color that chooses a random color until it gets a color that is different from the last color
 
 
 
@@ -40,3 +40,4 @@ while (play_again != 'n' and play_again != 'no'):
     play_again = input("\nWould you like to play again (yes or no)? ").lower().strip()
 
 print('Thanks for playing!')
+#See line 12

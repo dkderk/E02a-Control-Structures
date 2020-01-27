@@ -13,3 +13,5 @@ elif (color == 'pink'):
     print('Close!')
 else:
     print('Sorry, try again.')
+#The only real difference in this program is now guessing pink will have it tell you you're close
+#Which is what line 12 does 

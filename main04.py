@@ -10,3 +10,5 @@ if (color == 'Red' or color == 'red'):
     print('Correct!')
 else:
     print('Sorry, try again.')
+#This tries to solve the capitalization issue by making "red" another valid way to get Correct as a response
+#There are still problems with all other possible capitalizations
